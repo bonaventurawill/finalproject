@@ -9,7 +9,7 @@ date: 2026-18-09
 
 ## Research Question:
 
-Among those outbreaks where drinking water was responsible, how is water type related to the presence of \>= 1 death stemming from the outbreak, adjusting for etiology and illnesses.
+Among those outbreaks where drinking water was responsible, how is water type related to the presence of >= 1 death stemming from the outbreak, adjusting for etiology and illnesses.
 
 ## Unit of Analysis and Population
 
